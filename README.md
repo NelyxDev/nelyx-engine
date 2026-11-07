@@ -25,8 +25,8 @@ The primary objective of Nelyx Engine is to deliver a comfortable, plug-and-play
 | Platform | Status | Notes |
 | :--- | :--- | :--- |
 | **Windows** | Planned / Active | Primary development target |
-| **Linux** | Planned / Active | Primary delelopment support |
-| **macOS** | Planned / Active | Native build support |
+| **Linux** | Planned / Active | Primary delelopment support, but I do need to install a distro on my computer |
+| **macOS** | Planned | Native build support, but I need a Mac borrowed to make the build possible |
 | **WASM (Web)** | In Consideration | Web-based gameplay support |
 | **UWP (Xbox Dev Mode)** | Planned | Console testing environment |
 | **Android** | In Consideration | Future release (Woof! Android porting requires extra work) |
