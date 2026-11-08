@@ -3,7 +3,7 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 [![Base Engine](https://img.shields.io/badge/Base-Woof!%20(MBF21)-orange)](https://github.com/fabiangreffrath/woof)
 
-Nelyx Engine is a work-in-progress Doom source port based on [Woof!](https://github.com/fabiangreffrath/woof), tailored specifically to power Project Apocrypha and Super Tux Doom.
+Nelyx Engine is a work-in-progress Doom source port based on [Woof!](https://github.com/fabiangreffrath/woof), tailored specifically to power [Project Apocrypha](https://noverris.itch.io/projectapocrypha) and [Super Tux Doom](https://github.com/NelyxDev/supertuxdoom).
 
 ---
 
@@ -37,9 +37,9 @@ The primary objective of Nelyx Engine is to deliver a comfortable, plug-and-play
 
 Nelyx Engine serves as the core framework for two distinct projects:
 
-* **Project Apocrypha** (Working Title) — Built for MBF21 standards, featuring extended mechanics and custom mapping features.
-* **Super Tux Doom** — Built with strict Vanilla Doom compatibility and classic 90s feeling.
-* **Other Doom engine projects/games** that use MBF21 or lower (like the original Doom, Chex Quest, etc.)
+* **[Project Apocrypha](https://noverris.itch.io/projectapocrypha)** — Built for MBF21 standards, featuring extended mechanics and custom mapping features.
+* **[Super Tux Doom](https://github.com/NelyxDev/supertuxdoom)** — Built with strict Vanilla Doom compatibility and classic 90s feeling.
+* **Other Doom engine projects/games** that use MBF21 or lower (such as the original Doom, Chex Quest, Freedoom etc.)
 
 ---
 
